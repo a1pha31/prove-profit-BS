@@ -1,0 +1,141 @@
+h3{
+  text-align: center;
+}
+a{
+  color: #23393C;
+}
+
+.fontS{
+  font-family: Montserrat;
+  font-weight: bold;
+  color:#234242 ;
+}
+/* navbar */
+.navbar-brand{
+  font-family: Baloo Chettan 2;
+}
+.nav-logo{
+  height: 40px;
+  width: 70px;
+  display: inline-block;
+}
+/* navbar */
+
+.b-image{
+  text-align: center;
+}
+.b-img-1{
+  height: 300px;
+}
+
+/* marqee */
+.marQ{
+  margin-top: 5%;
+}
+/* introduction */
+#introduction{
+  background-color: #F8F8F2;
+
+}
+.prove-profit{
+  text-decoration: underline;
+}
+.intro-outer{
+  padding: 4% 0;
+}
+
+/* steps */
+#steps{
+  padding: 4% 10%;
+}
+.card-text{
+  background-color: #62655F;
+}
+
+/* HOME */
+
+/* ---------------------------------------------------------------------------------- */
+/* ANALYSIS */
+.anaH1{
+  margin-bottom: 3%;
+  text-align: center;
+  color:#234242 ;
+  font-size: 4rem;
+}
+.anaStat{
+  text-align: center;
+  font-size: 1.2rem;
+
+}
+.bal-sheet-statement{
+  /* margin-top: 5%; */
+  background-color: #DDF0F3;
+  margin-bottom: 10%;
+  padding: 2% 2% 2% 5%;
+}
+
+/* entity */
+.entityBox{
+  margin: 2% 10%;
+  margin-bottom: 5%;
+
+  /* background-color: white; */
+  /* border-style: groove; */
+  text-align: center;
+}
+
+.enR{
+  padding-left: 17%;
+}
+
+.selectC{
+  margin-right: 3%;
+}
+
+.first-box{
+  background-color: #E5F5F8;
+  /* border-style: groove;
+  border-color: #E9F3F5; */
+  padding: 2% 3%;
+  margin-bottom: 5%;
+}
+.second-box{
+  background-color: #E5F5F8;
+  /* border-style: groove;
+  border-color: #E9F3F5; */
+  padding: 2% 3%;
+}
+/* button-sumbit */
+.button-box{
+  text-align: center;
+}
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+/* ANALYSIS */
+/* ---------------------------------------------------------------------------------- */
